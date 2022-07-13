@@ -1,0 +1,47 @@
+body {
+  background-color: lightpink;
+}
+h1 {
+  color: blue;
+  position: fixed;
+  left: 50%;
+  margin-left: -180px;
+}
+h2 {
+  color: red;
+  position: fixed;
+  left: 50%;
+  top: 20%;
+  margin-left: -170px;
+  margin-top: -50px;
+}
+.button {
+  position: fixed;
+  left: 50%;
+  top: 30%;
+  margin-left: -50px;
+  border: 5px outset hotpink;
+  background-color: pink;
+  text-align: center;
+}
+.sadAmara {
+  position: fixed;
+  left: 50%;
+  top: 40%;
+  margin-left: -165px;
+  border: 15px outset hotpink;
+  background-color: pink;
+  text-align: center;
+}
+.happyAmara {
+  position: fixed;
+  left: 50%;
+  top: 40%;
+  margin-left: -165px;
+  border: 15px outset hotpink;
+  background-color: pink;
+  text-align: center;
+  visibility: hidden;
+}
+
+
